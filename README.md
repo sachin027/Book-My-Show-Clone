@@ -1,5 +1,10 @@
 # Book-My-Show-Clone
 created BookMyShow clone using HTML , CSS and JS . 
+
+Visit live here :- https://sachin027.github.io/Book-My-Show-Clone/
+
+review it and give suggestions :innocent:
+
 Here are some images of clone :- 
 
 1. sign in menu
